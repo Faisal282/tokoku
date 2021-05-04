@@ -11,7 +11,7 @@
       <v-toolbar-title
         style="width: 350px"
       >
-        <a href="/" class="white--text" style="text-decoration: none">&nbsp;Tokoku</a>
+        <a href="/" class="white--text" style="text-decoration: none"> <img src="../assets/logo.svg" alt="" width="20"> &nbsp;Tokoku</a>
       </v-toolbar-title>
       <v-text-field
         flat
